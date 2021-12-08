@@ -21,4 +21,4 @@ jobs:
       - name: install && run
         run: |
           npm install request
-npm install discord.js
+          npm install discord.js
